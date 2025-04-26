@@ -1,0 +1,14 @@
+C:\CSharpEducation.Home\HomeLesson2\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\CSharpEducation.Home\HomeLesson2\TicTacToe\bin\Debug\TicTacToe.exe
+C:\CSharpEducation.Home\HomeLesson2\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\CSharpEducation.Home\HomeLesson2\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\CSharpEducation.Home\HomeLesson2\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\CSharpEducation.Home\HomeLesson2\TicTacToe\obj\Debug\TicTacToe.exe
+C:\CSharpEducation.Home\HomeLesson2\TicTacToe\obj\Debug\TicTacToe.pdb
+D:\01 work\04 study\practice\25.04.16_C#_programming\Home\HomeLesson2\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\01 work\04 study\practice\25.04.16_C#_programming\Home\HomeLesson2\TicTacToe\bin\Debug\TicTacToe.exe
+D:\01 work\04 study\practice\25.04.16_C#_programming\Home\HomeLesson2\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\01 work\04 study\practice\25.04.16_C#_programming\Home\HomeLesson2\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+D:\01 work\04 study\practice\25.04.16_C#_programming\Home\HomeLesson2\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\01 work\04 study\practice\25.04.16_C#_programming\Home\HomeLesson2\TicTacToe\obj\Debug\TicTacToe.exe
+D:\01 work\04 study\practice\25.04.16_C#_programming\Home\HomeLesson2\TicTacToe\obj\Debug\TicTacToe.pdb
