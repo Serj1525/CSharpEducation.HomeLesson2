@@ -1,0 +1,7 @@
+C:\CSharpEducation.Home\HomeLesson2\TicTacToe\bin\Release\TicTacToe.exe.config
+C:\CSharpEducation.Home\HomeLesson2\TicTacToe\bin\Release\TicTacToe.exe
+C:\CSharpEducation.Home\HomeLesson2\TicTacToe\bin\Release\TicTacToe.pdb
+C:\CSharpEducation.Home\HomeLesson2\TicTacToe\obj\Release\TicTacToe.csproj.AssemblyReference.cache
+C:\CSharpEducation.Home\HomeLesson2\TicTacToe\obj\Release\TicTacToe.csproj.CoreCompileInputs.cache
+C:\CSharpEducation.Home\HomeLesson2\TicTacToe\obj\Release\TicTacToe.exe
+C:\CSharpEducation.Home\HomeLesson2\TicTacToe\obj\Release\TicTacToe.pdb
